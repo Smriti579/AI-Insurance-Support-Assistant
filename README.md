@@ -118,8 +118,7 @@ insurance-ai-agent
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── screenshots
-     └── app_demo.png
+└── app_demo.png
 ```
 
 ---
