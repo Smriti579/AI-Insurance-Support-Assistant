@@ -139,10 +139,15 @@ python app.py
 # 🌟 Features
 
 ✔ Retrieval-Augmented Generation (RAG)
+
 ✔ AI Agent decision system
+
 ✔ Vector similarity search with FAISS
+
 ✔ LLM-based response generation
+
 ✔ Interactive Gradio interface
+
 ✔ Deployable on HuggingFace Spaces
 
 ---
