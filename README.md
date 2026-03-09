@@ -42,15 +42,25 @@ The system retrieves relevant information from a knowledge base and uses an LLM 
 # ⚙️ Architecture
 
 User Query
+
 ↓
+
 Agent Decision System
+
 ↓
+
 Tool Execution OR Knowledge Retrieval
+
 ↓
+
 FAISS Vector Search
+
 ↓
+
 LLM Response Generation (Groq)
+
 ↓
+
 Gradio Interface Response
 
 ---
