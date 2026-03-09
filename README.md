@@ -15,7 +15,7 @@ HuggingFace Space:
 
 # 📸 Application Screenshot
 
-![App Screenshot](screenshots/app_demo.png)
+![App Screenshot](app_demo.png)
 
 ---
 
